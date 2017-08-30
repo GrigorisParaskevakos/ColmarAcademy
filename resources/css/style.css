@@ -287,6 +287,15 @@ span#info_quote {
     font-style: italic;
 }
 
+span.thesis_info {
+    width: 70%;
+    line-height: 2;
+}
+
+span.thesis_text {
+    line-height: 1.4;
+}
+
 .info_main img {
     margin: 32px 0 32px 0px;
 }
