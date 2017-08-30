@@ -203,9 +203,6 @@ header img {
 
 header nav {
     margin-right: 24px;
-    width: 39%;
-    display: flex;
-    justify-content: space-around;
 }
 
 header nav a {
