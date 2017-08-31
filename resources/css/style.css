@@ -175,7 +175,7 @@ footer a {
 
 header {
     height: 64px;
-    background-color: #d7ebff;
+    background-color: rgb(215, 235, 255);
     background-size: cover;
     position: fixed;
     color: rgba(71, 71, 71, 1);
@@ -207,7 +207,7 @@ header nav {
 
 header nav a {
     font-size: 18px;
-    color: #474747;
+    color: rgb(71, 71, 71);
 }
 
 .header_nav_space {
@@ -255,7 +255,7 @@ header nav a {
 }
 
 .banner a:hover {
-    color: rgb(216, 216, 216, 0.7);
+    color: rgba(216, 216, 216, 0.7);
     background-color: rgba(40, 40, 40, 1);
     border-radius: 8px;
     -webkit-transition-duration: 750ms;
@@ -333,7 +333,7 @@ span.thesis_text {
 }
 
 .info_aside_text a span {
-    color: #286d90;
+    color: rgba(50, 57, 56, 0.83);
 }
 
 .info_aside_text a span:hover {
@@ -400,7 +400,7 @@ span.thesis_text {
 .course_courses {
     font-size: 16px;
     margin: 8px 0;
-    color: #7f8c90;
+    color: rgb(127, 140, 144);
 }
 
 .course_text {
@@ -767,7 +767,7 @@ footer nav a {
         border: 1px solid rgba(71, 71, 71, 0.8);
         border-radius: 8px;
     }
-    .courses a:hover {
+    .courses a:active {
         background-color: rgba(216, 216, 216, 0.7);
         color: rgba(74, 74, 74, 1);
         box-shadow: 5px 5px 2px 0px rgba(74, 74, 74, 0.4);
