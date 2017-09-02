@@ -260,6 +260,24 @@ header nav a {
     border-radius: 8px;
     -webkit-transition-duration: 750ms;
     transition-duration: 750ms;
+    animation: none;
+}
+
+
+/*css variables in @keyframes*/
+
+@keyframes bg {
+    from {
+        border: 2px dotted #00FA00;
+    }
+    to {
+        border: 24px dotted #FE0303;
+    }
+}
+
+#keyframe {
+    animation: 2.5s bg infinite alternate;
+    border-radius: 10px;
 }
 
 
