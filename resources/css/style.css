@@ -266,6 +266,8 @@ header nav a {
 
 /*css variables in @keyframes*/
 
+
+/*
 @keyframes bg {
     from {
         border: 2px dotted #d7ebff;
@@ -274,12 +276,17 @@ header nav a {
         border: 24px dotted #4a4a4a;
     }
 }
+*/
 
+
+/*
 #keyframe {
     animation: 1.5s bg infinite alternate;
     border-radius: 1px;
     padding: 1px;
 }
+
+*/
 
 
 /* Information Section */
