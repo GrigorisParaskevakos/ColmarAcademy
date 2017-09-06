@@ -1,5 +1,4 @@
-VISIT THE COMPLET PROJECT HERE : https://grigorisparaskevakos.github.io/ColmarAcademy/ 
-
+VISIT THE COMPLET PROJECT HERE : 
 The objective WAS: 
 
 Colmar Academy Capstone Project
